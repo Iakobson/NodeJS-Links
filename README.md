@@ -28,6 +28,16 @@
 
 ## YouTube Node 
 
+* [🚀 Node.js в 2023 🧑‍💻 Введение в технологию ✨](https://www.youtube.com/watch?app=desktop&v=mRvzgBGLVyM)
+  - **Timur Shemsedinov**
+  - _что такое node.js_
+  - _основные идеи node.js_
+  - _приложение на node.js_
+  - _менеджер пакетов NPM_
+  - _сферы применения node.js_
+  - _для чего node.js плохо подходит_
+  - _что делать?_
+  - _как писать на ноде качественно_
 * [Node.js Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk)
   - **freeCodeCamp.org**
   - Learn Node.js - [Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA&list=PLWKjhJtqVAbmGQoa3vFjeRbRADAOC9drk&index=1)
@@ -56,10 +66,6 @@
 
 
 
-
-
-
-
 - - -
 
 ## YouTube Express
@@ -85,6 +91,16 @@
   - Project 2: Store API
   - Project 3: JWT Basics
   - Project 4: Jobs API
+
+
+- - -
+
+* [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
+  - _Declare App Dependencies_
+  - _Specify the Node Version_
+  - _Specify a Start Script_
+  - _Build Your App and Run It Locally_
+  - _Deploy Your Application to Heroku_
 
 
 
@@ -128,7 +144,12 @@
   - _HTTP статус коди, редірект_
   - _Файли кукі (cookie), сесії_
   - _Cross-site request forgery (CSRF/XSRF)_
-
+* [Docker для Начинающих - Полный Курс](https://www.youtube.com/watch?v=n9uCgUzfeRQ&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP)
+  - **vladilen.minin**
+  - _Что такое Docker_
+  - _Docker Images & Containers_
+  - _Работа с NodeJS_
+  - _Деплой и запуск Docker на VPS_
 
 
 
