@@ -20,6 +20,7 @@
   + Express + Node.js Handbook for Beginners [2022 Edition]
   + How to Deploy Your Node.js Application for Free with Render
   + Build a RESTful API Using Node, Express, and MongoDB
+  + Learn Docker by Building a Node / Express App
 
 
 
@@ -100,6 +101,34 @@
   - _Конфиденциальность и как она регулируется_
   - _Создаем свой функционал в коде для работы cookie popup_
   - _Используем Cookie Storage_
+* [Docker та контейнеризація; технології Docker](https://www.youtube.com/watch?v=TlKV69gmzhA)
+  - **Просто про ІТ**
+  - _що таке контейнеризація і для чого вона потрібна_
+  - _як працюють шари (layes) файлів всередині Docker образів_
+  - _корисна порада новачкам і не тільки - OOMKill_
+  - _практика: план практичної роботи_
+* [Просто про Web: клієнт-серверна архітектура, IP адреси та DNS](https://www.youtube.com/watch?v=ByJl2IcWSfc)
+  - **Просто про ІТ**
+  - _IPv4 та IPv6, IP адреси та IP порти, локальні мережі_
+  - _служба доменних імен DNS_
+  - _гіперпосилання: URL, URI_
+  - _перегляд деталей HTTP запитів у браузері_
+  - _кешування у браузері_
+  - _абсолютні та відносні шляхи_
+  - _Web 1.0 vs Web 2.0_
+* [Просто про Web: Server vs client side, статичний vs динамічний вміст, OSI модель](https://www.youtube.com/watch?v=P_kkqVK7Sis)
+  - **Просто про ІТ**
+  - _Мережеві протоколи, TCP/IP, OSI модель_
+  - _Статичний vs динамічний вміст_
+  - _Що робити на боці сервера, а що - на боці клієнта_
+  - _SEO та пошуковики і client-side vs server-side генерація вмісту_
+* [Просто про Web: HTTP протокол; cookie та атрибути same site, secure, http-only](https://www.youtube.com/watch?v=Y1jvwhLCckY)
+  - **Просто про ІТ**
+  - _Структура HTTP запитів та відповідей_
+  - _HTTP статус коди, редірект_
+  - _Файли кукі (cookie), сесії_
+  - _Cross-site request forgery (CSRF/XSRF)_
+
 
 
 
