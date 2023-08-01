@@ -150,6 +150,12 @@
   - _Docker Images & Containers_
   - _Работа с NodeJS_
   - _Деплой и запуск Docker на VPS_
+* [JWT Authentication Tutorial - Node.js](https://www.youtube.com/watch?v=mbsmsi7l3r4)
+  - **Web Dev Simplified**
+  - _Creating Node.js authentication middleware_
+  - _Using refresh tokens with JWT_
+  - _How to use JWT securely_
+
 
 
 
