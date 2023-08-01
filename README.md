@@ -12,6 +12,17 @@
   + [Коли застосовують Node.js?](https://web-developer.in.ua/assets/articles/node/node-need/node-need.html)
 
 
+### freecodecamp.org/news
+
+* [Статті по Node.js:](https://www.freecodecamp.org/news/search?query=Node)
+  + What Exactly is Node.js?
+  + How to Get Started with NodeJS?
+  + Express + Node.js Handbook for Beginners [2022 Edition]
+  + How to Deploy Your Node.js Application for Free with Render
+  + Build a RESTful API Using Node, Express, and MongoDB
+
+
+
 - - -
 
 ## YouTube Node 
@@ -67,8 +78,12 @@
 * [REST API - что это? Создаем API с нуля на Express](https://www.youtube.com/watch?v=lzQIhjElV_g&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=7)
   - **vladilen.minin**
   - _создание полноценного Fullstack приложения на NodeJS + VueJS_
-
-
+* [Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM)
+  - **freeCodeCamp.org**
+  - Project 1: Task Manager
+  - Project 2: Store API
+  - Project 3: JWT Basics
+  - Project 4: Jobs API
 
 
 
@@ -76,6 +91,20 @@
 
 
 - - -
+
+## YouTube Aditional
+
+* [Куки и куки-окна - что это и как работает? ](https://www.youtube.com/watch?v=7FbAM52h9QA)
+  - **Ivan Petrychenko**
+  - _Подробно про внутренности куки-данных_
+  - _Конфиденциальность и как она регулируется_
+  - _Создаем свой функционал в коде для работы cookie popup_
+  - _Используем Cookie Storage_
+
+
+
+- - -
+
 
 
 
