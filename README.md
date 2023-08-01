@@ -23,6 +23,19 @@
   + Learn Docker by Building a Node / Express App
 
 
+### [Руководство по Node.js](https://metanit.com/web/nodejs/)
+
+  * Введение в Node JS
+  * Основы работы с Node.js
+  * Сервер
+  * Express
+  * Тестирование
+  * Node.js и MongoDB
+  * Паттерн MVC
+  * Загрузка файлов
+
+
+
 
 - - -
 
@@ -63,6 +76,14 @@
   - _Создание роутов_
   - _Создание и настройка layouts_
   - _Создание модели_
+* [Node JS фундаментальный курс от А до Я.](https://www.youtube.com/watch?v=243pQXC5Ebs)
+  - **Ulbi TV**
+  - _Что такое node js, v8, libuv_
+  - _Работа с файлами. CRUD_
+  - _События. Модуль events, EventEmitter_
+  - _Readable, writable streams__Создание простого сервера._
+
+
 
 
 
@@ -91,17 +112,29 @@
   - Project 2: Store API
   - Project 3: JWT Basics
   - Project 4: Jobs API
-
+* [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=636s)
+  - **freeCodeCamp.org**
+  - _Browser Vs Server _
+  - _Built-In Modules_
+  - _NPM Command_
+  - _Nodemon_
+  - _Events Info_
+  - _Starter Project Install_
+  - _Express Basics_
+  - _Middleware - Setup_
+ 
 
 - - -
 
-* [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
-  - _Declare App Dependencies_
-  - _Specify the Node Version_
-  - _Specify a Start Script_
-  - _Build Your App and Run It Locally_
-  - _Deploy Your Application to Heroku_
 
+* [Nest js & Next js ПОЛНЫЙ КУРС. FullStack разработка SSR на React TypeScript](https://www.youtube.com/watch?v=A0CfYSVzAZI)
+  - **Ulbi TV**
+  - Музыкальная платформа
+  - _BACKEND - Сервис, Модуль, Контроллер_
+  - _BACKEND - Загрузка файлов, раздача статики, FileService_
+  - _FRONTEND - Страница со списком треков_
+  - _FRONTEND - Логика плеера, подключаем Redux_
+  - _FRONTEND - SEO оптимизация, head, title, meta_
 
 
 
