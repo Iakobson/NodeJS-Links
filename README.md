@@ -99,6 +99,12 @@
 
 ### YouTube Express
 
+* [Express JS (Node REST API) Crash Course](https://www.youtube.com/watch?v=P5q8rUGCN9k)
+  - **Laith Academy**
+  - _GET Route POST_
+  - _Query Params_
+  - _Route File Organization_
+  - _Middleware_
 * [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3)
   - **vladilen.minin**
   - _Инициализация проекта на Node.js_
@@ -138,8 +144,9 @@
 > _A progressive Node.js framework for building efficient, reliable and scalable server-side applications._
 
 + [DOCEMENTATION](https://docs.nestjs.com/)
-+ [CPURSES](https://courses.nestjs.com/)
++ [COURSES](https://courses.nestjs.com/)
 
+> _ви можете розглянути Nest.js для побудови більших та більш складних додатків, якщо вам зручніше працювати з TypeScript і структурованим підходом до розробки_
 
 - - -
 
