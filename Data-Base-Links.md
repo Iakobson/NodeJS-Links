@@ -20,8 +20,10 @@
 
 ## YouTube MongoDB
 
-
-
+* [MongoDB Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+  - **The Net Ninja**
+  - _how to install and connect to MongoDB_
+  - _as well as create, read, update and delete data_
 
 
 
