@@ -89,7 +89,15 @@
 
 - - -
 
-## YouTube Express
+## EXPRESS
+
+
+
+
+
+- - -
+
+### YouTube Express
 
 * [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3)
   - **vladilen.minin**
@@ -126,6 +134,16 @@
 
 - - -
 
+## NEST
+> _A progressive Node.js framework for building efficient, reliable and scalable server-side applications._
+
++ [DOCEMENTATION](https://docs.nestjs.com/)
++ [CPURSES](https://courses.nestjs.com/)
+
+
+- - -
+
+### YouTube NEST
 
 * [Nest js & Next js ПОЛНЫЙ КУРС. FullStack разработка SSR на React TypeScript](https://www.youtube.com/watch?v=A0CfYSVzAZI)
   - **Ulbi TV**
@@ -135,8 +153,14 @@
   - _FRONTEND - Страница со списком треков_
   - _FRONTEND - Логика плеера, подключаем Redux_
   - _FRONTEND - SEO оптимизация, head, title, meta_
-
-
+* [NestJS Crash Course - Build a Complete Backend API](https://www.youtube.com/watch?v=BiN-xzNkH_0)
+  - **Laith Academy**
+  - https://www.udemy.com/course/the-nest-js-bootcamp-complete-developer-guide/
+  - _Controllers and Request Objects_
+  - _Abstracting Business Logic Services_
+  - _alidating the Incoming Request_
+  - _Transforming the Response Object_
+  - _Modules and File Structures_
 
 
 
