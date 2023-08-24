@@ -24,8 +24,8 @@
 
 При відправці форми з логіном і паролем отримуємо токен, перевіряєм чи все ок з респонсом і записуємо його в session storage.
 
+![middleware](https://github.com/Iakobson/NodeJS-Links/blob/main/Lab-Node/required-2.jpg)
 
-
-
+- - -
 
 
