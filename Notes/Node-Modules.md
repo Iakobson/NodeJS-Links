@@ -3,7 +3,7 @@
 
 
 
-## os
+## модуль os
 > _вбудований модуль, який надає функціональність для взаємодії з операційною системою_
 
 #### Основні функції та властивості:
@@ -85,5 +85,35 @@
   console.log(greeting.getMessage(userName));
     // =>> Добрий день, SS
 ```
+
+### функція конструктор
+> _у модулі можуть визначатися складні об'єкти чи функції конструкторів, які потім використовуються для створення об'єктів_
+
+```javascript
+  // user.js
+  function User(name, age){
+     
+    this.name = name;
+    this.age = age;
+    this.displayInfo = function(){         
+        console.log(`Ім'я: ${this.name}  Вік: ${this.age}`);
+    }
+  }
+  User.prototype.sayHi = function() {
+    console.log(`Привіт, мене звати ${this.name}!`);
+  };
+ 
+  module.exports = User;
+```
+
+
+
+
+
+
+
+
+
+
 
 
