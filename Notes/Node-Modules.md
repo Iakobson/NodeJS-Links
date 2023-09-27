@@ -106,12 +106,17 @@
   module.exports = User;
 ```
 
+**Підключимо та використаємо цей модуль у файлі**
 
-
-
-
-
-
+```javascript
+  const User = require("./user.js");
+ 
+  let morgan = new User("Morgan", 36);
+  morgan.displayInfo();
+    // =>> Ім'я: Morgan  Вік: 36
+  morgan.sayHi();  
+    // =>> Привіт, мене звати Morgan!
+```
 
 
 
