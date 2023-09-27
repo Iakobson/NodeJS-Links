@@ -1,4 +1,4 @@
-# Modules
+# Node Modules
 > документація: https://nodejs.org/api/http.html
 
 
@@ -49,6 +49,41 @@
   */
   console.log('hostname:', os.hostname() );
     // =>> DESKTOP-O1HTTS6
+```
+
+**Приклад, із використанням користувацького модуля:**
+> _Об'єкт module.exports - це те, що функція require() повертається при отриманні модуля._
+
+```javascript
+  // greeting.js
+  let currentDate = new Date();
+  module.exports.date = currentDate;
+ 
+  module.exports.getMessage = function(name){
+    let hour = currentDate.getHours();
+    if(hour > 18)
+        return "Доброго вечора, " + name;
+    else if(hour > 11)
+        return "Добрий день, " + name;
+    else
+        return "Доброго ранку, " + name;
+  }
+```
+
+> _Усі експортовані методи та властивості модуля доступні на ім'я: greeting.date та greeting.getMessage()._
+
+```javascript
+  // node module.js
+  const os = require("os");
+  const greeting = require("./greeting");
+ 
+  // отримаємо ім'я поточного користувача
+  let userName = os.userInfo().username;
+  
+  console.log(`Дата запиту: ${greeting.date}`);
+    // =>> Дата запиту: Wed Sep 27 2023 17:30:47 GMT+0300
+  console.log(greeting.getMessage(userName));
+    // =>> Добрий день, SS
 ```
 
 
