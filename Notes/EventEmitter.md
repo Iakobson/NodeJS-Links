@@ -24,7 +24,53 @@
 
 Ви можете використовувати його для створення власних об'єктів, які видають та обробляють події у вашому програмному коді. Це корисно для реалізації асинхронних операцій, взаємодії компонентів програми та багатьох інших сценаріїв.
 
+```javascript
+// eventEmitter.js
+// Цей код демонструє створення та реагування на події. 
+// дозволяє створювати об'єкти, які можуть генерувати події та реагувати на них
+const Emitter = require("events");
+let emitter = new Emitter();
+
+// визначаємо назву події, яка буде використовуватися для спрацьовування та підписки на неї
+let event1Name = "greet1";
+let event2Name = "greet2";
+
+class User extends Emitter {
+  // об'єкти, створені з цього класу, будуть мати можливість генерувати та обробляти події
+    sayHi(data) {
+        this.emit(event2Name, data);
+    }
+}
+
+let user = new User();
 
 
+emitter.on(event1Name, function(){
+    console.log("Привітики!");
+});
+ 
+emitter.on(event1Name, function(){
+    console.log("Чудова погода!");
+});
+ 
+emitter.on(event2Name, function(data){
+    console.log(data);
+}); 
+
+// додаємо до нього обробку події
+user.on(event2Name, function(data){
+    console.log(data);
+}); 
+
+
+// Генерація подій "greet":
+emitter.emit(event1Name);
+  // =>> Привітики! Чудова погода!
+
+emitter.emit(event2Name, "Радий вас бачити!");
+  // =>> Радий вас бачити!
+
+user.sayHi("Мені потрібний твій одяг...");
+```
 
 
