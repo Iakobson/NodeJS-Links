@@ -125,3 +125,19 @@
     ├─ SectionTitle.jsx
     ├─ index.jsx 
 ```
+
+
+## модуль fs
+
+Документація: https://nodejs.org/api/fs.html
+
+
+
+
+
+
+
+
+
+
+
