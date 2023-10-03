@@ -72,11 +72,21 @@ fs.writeFile("files/writeasync.txt", contentToWrite, (error) => {
 > Операція fs.writeFile перезапише вміст файлу новими даними. Тобто, якщо файл writeasync.txt вже існує, то вміст файлу буде замінений на новий, який ви передаєте у функцію fs.writeFile. Якщо файл не існує, він буде створений, і в нього буде записаний новий вміст.
 
 
+**Для видалення файлів в Node.js ви можете використовувати функцію fs.unlink(). Ось приклад його використання:**
 
+```javascript
+const fs = require("fs");
 
+const filePath = "шлях_до_файлу.txt";
 
-
-
+fs.unlink(filePath, (err) => {
+    if (err) {
+        console.error("Помилка при видаленні файлу:", err);
+    } else {
+        console.log("Файл успішно видалено.");
+    }
+});
+```
 
 
 
