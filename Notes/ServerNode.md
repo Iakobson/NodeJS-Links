@@ -73,9 +73,43 @@ http.createServer(function(request, response){
 
 Реалізуємо функціонал відкриття в браузері різних html файлів:
 
+```javascript
+  // app.js
+  const http = require("http");
+  const fs = require("fs");
+  
+  http.createServer(function(request, response){      
+    console.log(`Запрошена адреса: ${request.url}`);	
+    /*
+	  із request.url маємо URL-адресу, на яку надійшов запит
+	  .substr(1) відсікає перший символ з URL, який зазвичай є слешем ("/")
+	  таким чином отримуємо шлях після слешу
+	*/
+    const filePath = request.url.substr(1);
+	  console.log(`Запрошена адреса: ${request.url}`);	  
+    /* 
+	   fs.access() перевіряє доступність файлу за шляхом filePath
+	   fs.constants.R_OK - константа, якою перевіряємо права на читання файлу
+	*/
+    fs.access(filePath, fs.constants.R_OK, err => {
+      // Якщо файл недоступний або відсутні права, то колбек отримає помилку.
+        if(err){
+            response.statusCode = 404;
+            response.end("Resourse not found!");
+        }
+        else{
+		  // відбувається направлення даних з читаючого потоку у відповідь, що надсилається клієнту
+            fs.createReadStream(filePath).pipe(response);
+        }
+      });
+  }).listen(3000, function(){
+    console.log("Server started at 3000");
+  });
 
-
-
+  // npm start 
+  // http://localhost:3000/views/index.html
+  // http://localhost:3000/views/about.html
+```
 
 
 ### Маршрутизація
