@@ -69,18 +69,21 @@ _Для надсилання відповіді в express у об'єкта resp
 
 Функція ``sendStatus()`` надсилає користувачеві певний статусний код з деяким стандартним повідомленням.
 
+```javascript
+  app.use("/home/foo/",function (request, response) {
+      response.status(404).send(`Такий ресурс не знайдено`);
+  });
+```
 
+### Статичні файли
 
+У випадку ``app.use(express.static(__dirname + "/public"));`` ми безпосередньо звертаємося до статичних файлів, а функція ``sendFile`` фактично бере вміст із файлу та відсилає його користувачеві.
 
+```javascript
+    app.use("/static", express.static(__dirname + "/views"));
 
-
-
-
-
-
-
-
-
+  // http://localhost:5000/static/about.html
+```
 
 
 
