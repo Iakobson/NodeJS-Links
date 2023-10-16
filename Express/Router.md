@@ -62,11 +62,54 @@ _Тут ми маємо п'ять маршрутів, які обробляют�
   });
 ```
 
+## JSON и AJAX
 
-
-
-
-
+Нехай ми маємо файл register.html
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Реєстрація</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1>Сторінка реєстрації куди-небудь</h1>
+	<p>Введіть свої дані у форму:</p>
+    <form name="registerForm">
+        <label>Ім'я</label><br>
+        <input type="text" name="userName" /><br><br>
+        <label>Вік</label><br>
+        <input type="number" name="userAge" /><br><br>
+		<button type="submit" id="submit">Відправити</button>
+    </form>
+	
+  <script>
+    document.getElementById("submit").addEventListener("click", function (e) {
+      e.preventDefault();
+      // отримуємо дані форми
+      let registerForm = document.forms["registerForm"];
+        let userName = registerForm.elements["userName"].value;
+        let userAge = registerForm.elements["userAge"].value;
+		
+        // серіалізуємо дані в json
+        let user = JSON.stringify({userName: userName, userAge: userAge});
+        let request = new XMLHttpRequest();
+		
+        // надсилаємо запит на адресу "/user"
+        request.open("POST", "/user", true);   
+        request.setRequestHeader("Content-Type", "application/json");
+        request.addEventListener("load", function () {
+          // отримуємо і парсимо відповідь сервера
+          let receivedUser = JSON.parse(request.response);
+		  // дивимося відповідь сервера
+          console.log(receivedUser.userName, "-", receivedUser.userAge); 
+        });
+      request.send(user);
+    });
+  </script>	
+</body>
+</html>
+```
 
 
 
