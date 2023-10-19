@@ -82,6 +82,7 @@
   - _Создание модели_
 * [Node JS фундаментальный курс от А до Я.](https://www.youtube.com/watch?v=243pQXC5Ebs)
   - **Ulbi TV**
+  - https://github.com/utimur/node-js-fundamental
   - _Что такое node js, v8, libuv_
   - _Работа с файлами. CRUD_
   - _События. Модуль events, EventEmitter_
