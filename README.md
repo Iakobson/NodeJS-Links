@@ -5,7 +5,7 @@
 
 ### web-developer.in.ua
 
-* **Статті по Node.js:**
+* **Статті по Node.js:** 🤠
   + [Що таке Node.js?](https://web-developer.in.ua/assets/articles/node/node-introduction/node-introduction.html) 👁
   + [Чому варто вивчати Node.js?](https://web-developer.in.ua/assets/articles/node/node-why/node-why.html) 👁
   + [Чому топові компанії використовують Node.js?](https://web-developer.in.ua/assets/articles/node/node-company/node-company.html) 👁
@@ -29,7 +29,7 @@
   * Основы работы с Node.js 👁
   * Сервер 👁
   * Express 👁
-  * Тестирование 
+  * Тестирование 😵
   * Node.js и MongoDB 👁
   * Паттерн MVC 👁
   * Загрузка файлов
@@ -47,7 +47,7 @@
       + 
 * [🚀 Node.js в 2023 🧑‍💻 Введение в технологию ✨](https://www.youtube.com/watch?app=desktop&v=mRvzgBGLVyM)
   - **Timur Shemsedinov**
-  - _что такое node.js_
+  - _что такое node.js_ 🤓
   - _основные идеи node.js_
   - _приложение на node.js_
   - _менеджер пакетов NPM_
@@ -74,7 +74,7 @@
   - _how to make dynamic websites powered by it_
   - _about requests & responses, npm, Express, view engines (ejs), moddleware, mongodb, MVC_
 * [NodeJS, Express, MongoDB - Сайт с нуля](https://www.youtube.com/watch?v=8bE_PBRriyU)
-  - **vladilen.minin**
+  - **vladilen.minin** 🥱 🙈
   - https://github.com/vladilenm/express-mongo-todos
   - _Создание БД. Настройка БД._
   - _Подключение handlebars (html движок)_
@@ -82,12 +82,12 @@
   - _Создание и настройка layouts_
   - _Создание модели_
 * [Node JS фундаментальный курс от А до Я.](https://www.youtube.com/watch?v=243pQXC5Ebs)
-  - **Ulbi TV** 🧑‍💻
+  - **Ulbi TV** 🤮 🙈
   - https://github.com/utimur/node-js-fundamental
   - _Что такое node js, v8, libuv_ 👁
   - _Работа с файлами. CRUD_ 👁
-  - _События. Модуль events, EventEmitter_
-  - _Readable, writable streams__Создание простого сервера._
+  - _События. Модуль events, EventEmitter_ 👁
+  - _Readable, writable streams__Создание простого сервера._ 👁
 * []()
 
 
@@ -98,11 +98,6 @@
 ## EXPRESS
 
 
-
-
-
-- - -
-
 ### YouTube Express
 
 * [Express JS (Node REST API) Crash Course](https://www.youtube.com/watch?v=P5q8rUGCN9k)
@@ -112,7 +107,7 @@
   - _Route File Organization_
   - _Middleware_
 * [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3)
-  - **vladilen.minin** 🧑‍💻
+  - **vladilen.minin** 😵‍💫
   - _Инициализация проекта на Node.js_ 👁
   - _Настройка Express.js_ 👁
   - _Подключение к базе данных MongoDB_ 👁
