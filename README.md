@@ -75,6 +75,7 @@
   - _about requests & responses, npm, Express, view engines (ejs), moddleware, mongodb, MVC_
 * [NodeJS, Express, MongoDB - Сайт с нуля](https://www.youtube.com/watch?v=8bE_PBRriyU)
   - **vladilen.minin**
+  - https://github.com/vladilenm/express-mongo-todos
   - _Создание БД. Настройка БД._
   - _Подключение handlebars (html движок)_
   - _Создание роутов_
