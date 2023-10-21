@@ -82,10 +82,10 @@
   - _Создание и настройка layouts_
   - _Создание модели_
 * [Node JS фундаментальный курс от А до Я.](https://www.youtube.com/watch?v=243pQXC5Ebs)
-  - **Ulbi TV**
+  - **Ulbi TV** 🧑‍💻
   - https://github.com/utimur/node-js-fundamental
-  - _Что такое node js, v8, libuv_
-  - _Работа с файлами. CRUD_
+  - _Что такое node js, v8, libuv_ 👁
+  - _Работа с файлами. CRUD_ 👁
   - _События. Модуль events, EventEmitter_
   - _Readable, writable streams__Создание простого сервера._
 * []()
@@ -111,8 +111,8 @@
   - _Query Params_
   - _Route File Organization_
   - _Middleware_
-* [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3) 🧑‍💻
-  - **vladilen.minin**
+* [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3)
+  - **vladilen.minin** 🧑‍💻
   - _Инициализация проекта на Node.js_ 👁
   - _Настройка Express.js_ 👁
   - _Подключение к базе данных MongoDB_ 👁
