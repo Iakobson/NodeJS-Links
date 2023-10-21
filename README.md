@@ -42,15 +42,15 @@
 ## YouTube Node 
 
 * [📢 Что и как учить в 2023 🧑‍💻 JavaScript 💡 Node.js 🚀](https://www.youtube.com/watch?v=N0XbSU1hiDI)
-  - **Timur Shemsedinov**
+  - **Timur Shemsedinov** 😽 🙀
   - Основы программирования: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
       + 
 * [🚀 Node.js в 2023 🧑‍💻 Введение в технологию ✨](https://www.youtube.com/watch?app=desktop&v=mRvzgBGLVyM)
   - **Timur Shemsedinov**
   - _что такое node.js_ 🤓
-  - _основные идеи node.js_
+  - _основные идеи node.js_ 👁
   - _приложение на node.js_
-  - _менеджер пакетов NPM_
+  - _менеджер пакетов NPM_ 👁
   - _сферы применения node.js_
   - _для чего node.js плохо подходит_
   - _что делать?_
