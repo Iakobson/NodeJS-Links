@@ -123,6 +123,7 @@
   - _создание полноценного Fullstack приложения на NodeJS + VueJS_
 * [Node.js / Express Course - Build 4 Projects](https://www.youtube.com/watch?v=qwfE7fSVaZM)
   - **freeCodeCamp.org**
+  - https://github.com/john-smilga/node-express-course
   - Project 1: Task Manager
   - Project 2: Store API
   - Project 3: JWT Basics
