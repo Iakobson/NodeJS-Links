@@ -34,6 +34,23 @@
   * Паттерн MVC 👁
   * Загрузка файлов
 
+- - -
+
+## MERN
+
+* [MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment & More](https://www.youtube.com/watch?v=R4AhvYORZRY)
+  + **Traversy Media**
+  + https://github.com/bradtraversy/mern-auth
+  + SPA workflow that uses the Vite Build tool
+  + React Bootstrap UI library
+  + Backend API with Express & MongoDB
+  + Routes for auth, logout, register, profile, update profile
+* [Full Tutorial & Project | Complete All-in-One Course](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=3s)
+  + **Dave Gray**
+  + https://github.com/gitdagray/mern_stack_course
+
+
+
 
 
 
