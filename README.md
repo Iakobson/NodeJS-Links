@@ -36,32 +36,12 @@
 
 - - -
 
-## MERN
-
-* [MERN Crash Course | JWT Authentication, Redux Toolkit, Deployment & More](https://www.youtube.com/watch?v=R4AhvYORZRY)
-  + **Traversy Media**
-  + https://github.com/bradtraversy/mern-auth
-  + SPA workflow that uses the Vite Build tool
-  + React Bootstrap UI library
-  + Backend API with Express & MongoDB
-  + Routes for auth, logout, register, profile, update profile
-* [Full Tutorial & Project | Complete All-in-One Course](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=3s)
-  + **Dave Gray**
-  + https://github.com/gitdagray/mern_stack_course
-
-
-
-
-
-
-- - -
-
 ## YouTube Node 
 
 * [📢 Что и как учить в 2023 🧑‍💻 JavaScript 💡 Node.js 🚀](https://www.youtube.com/watch?v=N0XbSU1hiDI)
   - **Timur Shemsedinov** 😽 🙀
   - Основы программирования: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
-      + 
+      + 💻 [Базовый синтаксис JavaScript](https://www.youtube.com/watch?v=xJn3k1f4BiM)
 * [🚀 Node.js в 2023 🧑‍💻 Введение в технологию ✨](https://www.youtube.com/watch?app=desktop&v=mRvzgBGLVyM)
   - **Timur Shemsedinov**
   - _что такое node.js_ 🤓
@@ -90,6 +70,11 @@
   - _node from the ground up - what it is, how to use it _
   - _how to make dynamic websites powered by it_
   - _about requests & responses, npm, Express, view engines (ejs), moddleware, mongodb, MVC_
+ 
+- - -
+
+### трохи нуднувті відео
+
 * [NodeJS, Express, MongoDB - Сайт с нуля](https://www.youtube.com/watch?v=8bE_PBRriyU)
   - **vladilen.minin** 🥱 🙈
   - https://github.com/vladilenm/express-mongo-todos
@@ -105,17 +90,11 @@
   - _Работа с файлами. CRUD_ 👁
   - _События. Модуль events, EventEmitter_ 👁
   - _Readable, writable streams__Создание простого сервера._ 👁
-* []()
-
-
 
 
 - - -
 
-## EXPRESS
-
-
-### YouTube Express
+## YouTube Express
 
 * [Express JS (Node REST API) Crash Course](https://www.youtube.com/watch?v=P5q8rUGCN9k)
   - **Laith Academy**
@@ -123,18 +102,6 @@
   - _Query Params_
   - _Route File Organization_
   - _Middleware_
-* [Fullstack приложение за 3 часа. React и Node. MERN](https://www.youtube.com/watch?v=ivDjWYcKDZI&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=3)
-  - **vladilen.minin** 😵‍💫
-  - _Инициализация проекта на Node.js_ 👁
-  - _Настройка Express.js_ 👁
-  - _Подключение к базе данных MongoDB_ 👁
-  - _Настройка React.js_ 👁
-  - _Настойка роутинга страниц_ 👁
-  - _Работа над авторизацией_ 👁
-  - _Работа над-бизнес логикой на сервере_ 👁
-  - _Добавление на GitHub_ 👁
-  - _Настройка сервера на хостинге_ 👁
-  - _Настройка менеджера процессов PM2_ 👁
 * [REST API - что это? Создаем API с нуля на Express](https://www.youtube.com/watch?v=lzQIhjElV_g&list=PLqKQF2ojwm3l6OE4-tjLBhUNtJXLebHXP&index=7)
   - **vladilen.minin**
   - _создание полноценного Fullstack приложения на NodeJS + VueJS_
@@ -243,7 +210,5 @@
 
 
 - - -
-
-
 
 
