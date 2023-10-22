@@ -1,5 +1,7 @@
 # NodeJS-Links
 
+- [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Fancy Letters](https://lingojam.com/FancyLetters)
 
 - - -
 
@@ -42,6 +44,7 @@
   - **Timur Shemsedinov** 😽 🙀
   - Основы программирования: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
       + 💻 [Базовый синтаксис JavaScript](https://www.youtube.com/watch?v=xJn3k1f4BiM)
+      + 👨‍🎓 [Базовый синтаксис JavaScript, продолжение](https://www.youtube.com/watch?v=qa-XleqA0JU)
 * [🚀 Node.js в 2023 🧑‍💻 Введение в технологию ✨](https://www.youtube.com/watch?app=desktop&v=mRvzgBGLVyM)
   - **Timur Shemsedinov**
   - _что такое node.js_ 🤓
