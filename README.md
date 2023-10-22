@@ -45,6 +45,10 @@
   - Основы программирования: https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Fundamentals.md
       + 💻 [Базовый синтаксис JavaScript](https://www.youtube.com/watch?v=xJn3k1f4BiM)
       + 👨‍🎓 [Базовый синтаксис JavaScript, продолжение](https://www.youtube.com/watch?v=qa-XleqA0JU)
+      + 🧑‍🏭 [Функции, стрелочные функции, контексты, замыкания](https://www.youtube.com/watch?v=pn5myCmpV2U)
+      + 💻 [Массивы, объекты, классы, прототипы](https://www.youtube.com/watch?v=VBMGnAPfmsY)
+      + 🧑‍🔧 [Функции высшего порядка, колбеки, события](https://www.youtube.com/watch?v=1vqATwbGHnc)
+      + 👨‍🍼 [Антипаттерны общие для всех парадигм](https://www.youtube.com/watch?v=NMUsUiFokr4)
 * [🚀 Node.js в 2023 🧑‍💻 Введение в технологию ✨](https://www.youtube.com/watch?app=desktop&v=mRvzgBGLVyM)
   - **Timur Shemsedinov**
   - _что такое node.js_ 🤓
