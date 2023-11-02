@@ -51,6 +51,9 @@
       + 👨‍🍼 [Антипаттерны общие для всех парадигм](https://www.youtube.com/watch?v=NMUsUiFokr4)
       + 🧙 [Чеининг функций и объектов, обработка ошибок](https://www.youtube.com/watch?v=PfuEfIiLX34)
       + 🧛‍♂️ [Рекурсия: косвенная и хвостовая, стек, выход](https://www.youtube.com/watch?v=W2skCjIgVKE)
+      +  [Итерирование, циклы и итераторы в JS](https://www.youtube.com/watch?v=lq3b5_UGJas)
+      +  [Таймеры, таймауты, EventEmitter](https://www.youtube.com/watch?v=LK2jveAnRNg)
+      +  [Массивы в JavaScript (методы Array)](https://www.youtube.com/watch?v=D1kfYBkX9FE)
 * [🚀 Node.js в 2023 🧑‍💻 Введение в технологию ✨](https://www.youtube.com/watch?app=desktop&v=mRvzgBGLVyM)
   - **Timur Shemsedinov**
   - _что такое node.js_ 🤓
